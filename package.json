@@ -1,0 +1,18 @@
+{
+  "name": "Swarm Solutions candidate evaluation",
+  "version": "1.0.0",
+  "description": "Used by Swarm Solutions for evaluating candidates",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "engines": {
+    "node": "9.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/my-glitch-app"
+  },
+  "license": "MIT"
+}
